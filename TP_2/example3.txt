@@ -1,0 +1,10 @@
+TRABAJO PRACTICO ARCHIVOS PYTHON
+Ejercicio 1. Escribir un programa, para leer un archivo de texto completo.
+Ejercicio 2. Escribir un programa, para leer las primeras n líneas de un archivo.
+Ejercicio 3. Escribir un programa, para agregar texto a un archivo y mostrar el texto.
+Ejercicio 4. Escribir un programa, para leer un archivo línea por línea y almacenarlo en una lista.
+Ejercicio 5. Escribir un programa, para copiar el contenido de un archivo a otro archivo.
+Ejercicio 6. Escribir un programa, que reciba un archivo y un número N e imprima las primeras N líneas del archivo.
+Ejercicio 8. Escribir un programa, que dado un archivo de texto, un delimitador, y una lista de campos, imprima solamente esos campos, separados por ese delimitador.
+Ejercicio 9. Escribir un programa, que reciba un archivo, lo procese e imprima por pantalla cuántas líneas, cuantas palabras y cuántos caracteres contiene el archivo.
+Ejercicio 10. Escribir un programa, que reciba una expresión y un archivo e imprima las líneas del archivo que contienen la expresión recibida.
