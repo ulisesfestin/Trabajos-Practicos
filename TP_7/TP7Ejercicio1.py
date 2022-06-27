@@ -1,5 +1,4 @@
 
-
 def sum_of_differences(array):
     elements = len(array) - 1
     total = 0
@@ -13,6 +12,3 @@ def sum_of_differences(array):
             total += partial_sum
             index += 1
         return total
-
-
-
